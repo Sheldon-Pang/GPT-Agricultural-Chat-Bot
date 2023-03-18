@@ -1,2 +1,7 @@
 # gpt-agricultural-chat-bot
-Developed a web chat app using GPT-3.5 to help hundreds of rural Chinese farmers access agricultural knowledge.
+Helping hundreds of rural Chinese farmers access to agricultural knowledge with GPT-3.5.
+
+## Screenshots
+
+![App Screenshot](images/demo-1.png)
+![App Screenshot](images/demo-2.png)
